@@ -1,2 +1,2 @@
 #!/bin/bash
-ls display that 0-current_working_directory  README.md 
+ls display that 0-current_working_directory  1-listit  README.md 
