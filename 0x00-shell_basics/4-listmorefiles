@@ -1,10 +1,2 @@
 #!/bin/bash $ wc -l file
-total 24
-drwxr-xr-x 2 root root 139 Sep 30 17:15 .
-drwxr-xr-x 5 root root  90 Sep 30 06:50 ..
--rwxr-xr-x 1 root root  16 Sep 30 06:53 0-current_working_directory
--rwxr--r-- 1 root root  65 Sep 30 16:49 1-listit
--rwxr--r-- 1 root root  21 Sep 30 16:56 2-bring_me_home
--rwxr--r-- 1 root root 297 Sep 30 17:13 3-listfiles
--rwxr--r-- 1 root root 105 Sep 30 17:15 4-listmorefiles
--rwxr-xr-x 1 root root   7 Sep 30 06:51 README.md
+ls -l -a
